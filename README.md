@@ -1,1 +1,2 @@
-# Chapter6-in-Basic-C
+# Basic C Programming Tutorial
+## Chapter 6. Variables
